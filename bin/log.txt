@@ -1,0 +1,1096 @@
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /kitten.png HTTP/1.1 on Thu, 9 Nov 2017 17:14:15
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 97639
+Content-Type: image/png
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /page2.html HTTP/1.1 on Thu, 9 Nov 2017 17:14:58
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 805
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /tp_it.jpg HTTP/1.1 on Thu, 9 Nov 2017 17:14:58
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 36384
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 17:14:58
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /kitten.png HTTP/1.1 on Thu, 9 Nov 2017 17:15:19
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 97639
+Content-Type: image/png
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /home.gif HTTP/1.1 on Thu, 9 Nov 2017 17:16:08
+Server response:
+HTTP/1.1 404 Not Found
+Server: My Very Own Java HTTP Server
+Content-Length: 0
+Content-Type: image/gif
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /home.gif HTTP/1.1 on Thu, 9 Nov 2017 17:16:18
+Server response:
+HTTP/1.1 404 Not Found
+Server: My Very Own Java HTTP Server
+Content-Length: 0
+Content-Type: image/gif
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /index.html HTTP/1.1 on Thu, 9 Nov 2017 17:16:33
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /index.html HTTP/1.1 on Thu, 9 Nov 2017 17:16:35
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /index.html HTTP/1.1 on Thu, 9 Nov 2017 17:16:38
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /noFileWithThisName.html HTTP/1.1 on Thu, 9 Nov 2017 17:16:40
+Server response:
+HTTP/1.1 404 Not Found
+Server: My Very Own Java HTTP Server
+Content-Length: 0
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /index.html HTTP/1.1 on Thu, 9 Nov 2017 17:16:42
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /page3.html HTTP/1.1 on Thu, 9 Nov 2017 17:16:45
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1144
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /another/page3.html HTTP/1.1 on Thu, 9 Nov 2017 17:16:47
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1097
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: HEAD /index.html HTTP/1.1 on Thu, 9 Nov 2017 17:16:49
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: HEAD /index.html HTTP/1.1 on Thu, 9 Nov 2017 17:16:52
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: HEAD /index.html HTTP/1.1 on Thu, 9 Nov 2017 17:16:54
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: HEAD /noFileWithThisName.html HTTP/1.1 on Thu, 9 Nov 2017 17:16:56
+Server response:
+HTTP/1.1 404 Not Found
+Server: My Very Own Java HTTP Server
+Content-Length: 0
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: HEAD /index.html HTTP/1.1 on Thu, 9 Nov 2017 17:16:59
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: SLURP /index.html HTTP/1.1 on Thu, 9 Nov 2017 17:17:01
+Server response:
+HTTP/1.1 501 Not Implemented
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 17:55:14
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /kitten.png HTTP/1.1 on Thu, 9 Nov 2017 17:55:25
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 97639
+Content-Type: image/png
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /kitten.png HTTP/1.1 on Thu, 9 Nov 2017 18:00:27
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 97639
+Content-Type: image/png
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 18:00:33
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 18:05:01
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 18:05:07
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 18:05:11
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 18:05:13
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 18:05:14
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 18:05:16
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 18:05:19
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 18:05:21
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 18:05:23
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 18:05:26
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 18:05:28
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 18:05:31
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 18:10:16
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Connection handler thread started.
+Client requested: GET /beer.jpg HTTP/1.1 on Thu, 9 Nov 2017 18:10:21
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 24552
+Content-Type: image/jpeg
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Client requested: GET /ai.pdg HTTP/1.1 on Thu, 9 Nov 2017 18:10:26
+Connection handler thread started.
+Server response:
+HTTP/1.1 404 Not Found
+Server: My Very Own Java HTTP Server
+Content-Length: 0
+Content-Type: unsupported
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /ai.pdf HTTP/1.1 on Thu, 9 Nov 2017 18:10:29
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 744772
+Content-Type: application/pdf
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:10
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:11
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:12
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /noFileWithThisName.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:13
+Server response:
+HTTP/1.1 404 Not Found
+Server: My Very Own Java HTTP Server
+Content-Length: 0
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:15
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /page3.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:16
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1144
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /another/page3.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:17
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1097
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: HEAD /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:18
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: HEAD /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:19
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: HEAD /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:20
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: HEAD /noFileWithThisName.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:21
+Server response:
+HTTP/1.1 404 Not Found
+Server: My Very Own Java HTTP Server
+Content-Length: 0
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: HEAD /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:22
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: SLURP /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:23
+Server response:
+HTTP/1.1 501 Not Implemented
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:55
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:56
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:57
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /noFileWithThisName.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:58
+Server response:
+HTTP/1.1 404 Not Found
+Server: My Very Own Java HTTP Server
+Content-Length: 0
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:11:59
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /page3.html HTTP/1.1 on Thu, 9 Nov 2017 18:12:00
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1144
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /another/page3.html HTTP/1.1 on Thu, 9 Nov 2017 18:12:01
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1097
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: HEAD /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:12:02
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: HEAD /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:12:04
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: HEAD /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:12:05
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: HEAD /noFileWithThisName.html HTTP/1.1 on Thu, 9 Nov 2017 18:12:06
+Server response:
+HTTP/1.1 404 Not Found
+Server: My Very Own Java HTTP Server
+Content-Length: 0
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: HEAD /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:12:07
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: SLURP /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:12:08
+Server response:
+HTTP/1.1 501 Not Implemented
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:13:18
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:13:20
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:13:22
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /noFileWithThisName.html HTTP/1.1 on Thu, 9 Nov 2017 18:13:25
+Server response:
+HTTP/1.1 404 Not Found
+Server: My Very Own Java HTTP Server
+Content-Length: 0
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:13:27
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /page3.html HTTP/1.1 on Thu, 9 Nov 2017 18:13:29
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1144
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: GET /another/page3.html HTTP/1.1 on Thu, 9 Nov 2017 18:13:32
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1097
+Content-Type: text/html
+
+
+
+Reading file data from stream.
+Server sent file.
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: HEAD /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:13:34
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: HEAD /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:13:36
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: HEAD /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:13:39
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: HEAD /noFileWithThisName.html HTTP/1.1 on Thu, 9 Nov 2017 18:13:41
+Server response:
+HTTP/1.1 404 Not Found
+Server: My Very Own Java HTTP Server
+Content-Length: 0
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: HEAD /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:13:43
+Server response:
+HTTP/1.1 200 OK
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+
+Got request from /0:0:0:0:0:0:0:1
+Connection handler thread started.
+Client requested: SLURP /index.html HTTP/1.1 on Thu, 9 Nov 2017 18:13:46
+Server response:
+HTTP/1.1 501 Not Implemented
+Server: My Very Own Java HTTP Server
+Content-Length: 1279
+Content-Type: text/html
+
+
+
+Closing streams.
+

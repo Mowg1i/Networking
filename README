@@ -1,0 +1,9 @@
+My Very Own Java HTTP Server
+
+I have implemented three of the extensions:
+
+Binary files: my server can serve JPGs, PNGs, GIFs - and in addition, PDFs. (I tried this because PDFs are binary files just like the image formats and I was curious to see if it would work. It did. I think this could easily be extended to serve all kinds of binary files.) There are test images to verify this in the www directory. 
+
+Log: Infomation about all server and client activity is logged to a text file, log.txt, which can be found in the src directory.
+
+Multiple threads: using ExecutorService and implementing Runnable in the client handler.
